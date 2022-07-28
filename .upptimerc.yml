@@ -5,6 +5,10 @@ repo: status # The name of this repository
 sites:
   - name: DMP v4
     url: https://dmp.retargetly.com/
+  - name: DMP v3
+    url: https://dmpv3.retargetly.com/
+  - name: Loop
+    url: https://loop.retargetly.com/
   - name: Google
     url: https://www.google.com
   - name: Test Broken Site

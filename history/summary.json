@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/dmp.retargetly.com",
     "slug": "dmp-v4-login",
     "status": "up",
-    "uptime": "1.33%",
-    "uptimeDay": "1.33%",
-    "uptimeWeek": "1.33%",
-    "uptimeMonth": "1.33%",
-    "uptimeYear": "1.33%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 263,
     "timeDay": 263,
     "timeWeek": 263,
     "timeMonth": 263,
     "timeYear": 263,
-    "dailyMinutesDown": {
-      "2022-08-01": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "DMP v3",

@@ -4,19 +4,19 @@
     "url": "https://dmp.retargetly.com/auth/login",
     "icon": "https://favicons.githubusercontent.com/dmp.retargetly.com",
     "slug": "dmp-v4-login",
-    "status": "down",
-    "uptime": "2.74%",
-    "uptimeDay": "2.74%",
-    "uptimeWeek": "2.74%",
-    "uptimeMonth": "2.74%",
-    "uptimeYear": "2.74%",
+    "status": "up",
+    "uptime": "1.33%",
+    "uptimeDay": "1.33%",
+    "uptimeWeek": "1.33%",
+    "uptimeMonth": "1.33%",
+    "uptimeYear": "1.33%",
     "time": 263,
     "timeDay": 263,
     "timeWeek": 263,
     "timeMonth": 263,
     "timeYear": 263,
     "dailyMinutesDown": {
-      "2022-08-01": 0
+      "2022-08-01": 6
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 196,
-    "timeDay": 205,
-    "timeWeek": 196,
-    "timeMonth": 196,
-    "timeYear": 196,
+    "time": 207,
+    "timeDay": 229,
+    "timeWeek": 207,
+    "timeMonth": 207,
+    "timeYear": 207,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 149,
-    "timeDay": 138,
-    "timeWeek": 149,
-    "timeMonth": 149,
-    "timeYear": 149,
+    "time": 157,
+    "timeDay": 160,
+    "timeWeek": 157,
+    "timeMonth": 157,
+    "timeYear": 157,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 83,
-    "timeDay": 74,
-    "timeWeek": 83,
-    "timeMonth": 83,
-    "timeYear": 83,
+    "time": 82,
+    "timeDay": 76,
+    "timeWeek": 82,
+    "timeMonth": 82,
+    "timeYear": 82,
     "dailyMinutesDown": {}
   },
   {

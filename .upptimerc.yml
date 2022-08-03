@@ -8,7 +8,7 @@ sites:
     # method: POST
     # headers:
     # - "Content-Type: application/json"
-    # body: '{username: "gabriel.dominguez@retargetly.com", password: "Gaby38826900!"}'
+    # body: '{username: "", password: ""}'
     maxResponseTime: 6000
   - name: DMP v3
     url: https://dmpv3.retargetly.com/

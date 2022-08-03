@@ -12,12 +12,18 @@ sites:
     maxResponseTime: 6000
   - name: DMP v3
     url: https://dmpv3.retargetly.com/
+    maxResponseTime: 6000
   - name: Loop
     url: https://loop.retargetly.com/
+    maxResponseTime: 6000
+  - name: WS (Linode)
+    url: https://ws.retargetly.com/healthcheck
+  - name: WS API
+    url: https://wsapi-lab.retargetly.com/healthcheck
+    maxResponseTime: 6000
   - name: Google
     url: https://www.google.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  
     
 assignees:
   - GabrielDom
@@ -30,7 +36,7 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: status monitor for DMP suite
+  name: status monitor for DMP public suite
   # introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   theme: dark

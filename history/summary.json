@@ -76,18 +76,20 @@
     "url": "https://wsapi-lab.retargetly.com/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/wsapi-lab.retargetly.com.ico",
     "slug": "ws-api",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 183,
-    "timeDay": 101,
-    "timeWeek": 205,
-    "timeMonth": 154,
-    "timeYear": 183,
-    "dailyMinutesDown": {}
+    "time": 242,
+    "timeDay": 5206,
+    "timeWeek": 1468,
+    "timeMonth": 471,
+    "timeYear": 242,
+    "dailyMinutesDown": {
+      "2023-01-19": 0
+    }
   },
   {
     "name": "Google",

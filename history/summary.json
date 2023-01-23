@@ -42,18 +42,16 @@
     "slug": "loop",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 151,
     "timeDay": 289,
     "timeWeek": 181,
     "timeMonth": 137,
     "timeYear": 151,
-    "dailyMinutesDown": {
-      "2023-01-22": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "WS (Linode)",
@@ -98,17 +96,15 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 105,
     "timeDay": 104,
     "timeWeek": 100,
     "timeMonth": 87,
     "timeYear": 105,
-    "dailyMinutesDown": {
-      "2023-01-22": 6
-    }
+    "dailyMinutesDown": {}
   }
 ]

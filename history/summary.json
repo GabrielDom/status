@@ -6,18 +6,16 @@
     "slug": "dmp-v4-login",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 185,
-    "timeDay": 203,
-    "timeWeek": 130,
-    "timeMonth": 170,
+    "timeDay": 97,
+    "timeWeek": 133,
+    "timeMonth": 166,
     "timeYear": 185,
-    "dailyMinutesDown": {
-      "2023-04-25": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "DMP v3",
@@ -26,18 +24,16 @@
     "slug": "dmp-v3",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 182,
-    "timeDay": 208,
-    "timeWeek": 134,
-    "timeMonth": 166,
+    "timeDay": 103,
+    "timeWeek": 133,
+    "timeMonth": 162,
     "timeYear": 182,
-    "dailyMinutesDown": {
-      "2023-04-25": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Loop",
@@ -46,18 +42,16 @@
     "slug": "loop",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 156,
-    "timeDay": 150,
+    "timeDay": 73,
     "timeWeek": 106,
-    "timeMonth": 139,
+    "timeMonth": 136,
     "timeYear": 156,
-    "dailyMinutesDown": {
-      "2023-04-25": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "WS (Linode)",
@@ -66,18 +60,16 @@
     "slug": "ws-linode",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 193,
-    "timeDay": 178,
-    "timeWeek": 119,
-    "timeMonth": 194,
+    "timeDay": 75,
+    "timeWeek": 122,
+    "timeMonth": 191,
     "timeYear": 193,
-    "dailyMinutesDown": {
-      "2023-04-25": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "WS API",
@@ -85,18 +77,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/wsapi-lab.retargetly.com.ico",
     "slug": "ws-api",
     "status": "down",
-    "uptime": "65.38%",
+    "uptime": "65.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "65.38%",
+    "uptimeYear": "65.29%",
     "time": 241,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 241,
     "dailyMinutesDown": {
-      "2023-04-25": 895,
+      "2023-04-26": 33,
+      "2023-04-25": 1440,
       "2023-04-24": 1440,
       "2023-04-23": 1440,
       "2023-04-22": 1440,
@@ -203,9 +196,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 108,
-    "timeDay": 89,
-    "timeWeek": 89,
-    "timeMonth": 94,
+    "timeDay": 59,
+    "timeWeek": 81,
+    "timeMonth": 93,
     "timeYear": 108,
     "dailyMinutesDown": {}
   }

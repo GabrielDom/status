@@ -58,9 +58,9 @@
     "url": "https://ws.retargetly.com/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/ws.retargetly.com.ico",
     "slug": "ws-linode",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +69,9 @@
     "timeWeek": 173,
     "timeMonth": 143,
     "timeYear": 192,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-03": 0
+    }
   },
   {
     "name": "WS API",
@@ -77,18 +79,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/wsapi-lab.retargetly.com.ico",
     "slug": "ws-api",
     "status": "down",
-    "uptime": "63.61%",
+    "uptime": "63.45%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "63.61%",
+    "uptimeYear": "63.45%",
     "time": 241,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 241,
     "dailyMinutesDown": {
-      "2023-05-03": 32,
+      "2023-05-03": 994,
       "2023-05-02": 1440,
       "2023-05-01": 1440,
       "2023-04-30": 1440,

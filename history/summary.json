@@ -58,19 +58,19 @@
     "url": "https://ws.retargetly.com/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/ws.retargetly.com.ico",
     "slug": "ws-linode",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "96.43%",
-    "uptimeWeek": "99.49%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "95.87%",
+    "uptimeWeek": "99.41%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.98%",
     "time": 192,
-    "timeDay": 196,
-    "timeWeek": 170,
-    "timeMonth": 145,
+    "timeDay": 221,
+    "timeWeek": 182,
+    "timeMonth": 150,
     "timeYear": 192,
     "dailyMinutesDown": {
-      "2023-05-03": 51
+      "2023-05-03": 59
     }
   },
   {
@@ -90,7 +90,7 @@
     "timeMonth": 0,
     "timeYear": 241,
     "dailyMinutesDown": {
-      "2023-05-03": 1369,
+      "2023-05-03": 1377,
       "2023-05-02": 1440,
       "2023-05-01": 1440,
       "2023-04-30": 1440,

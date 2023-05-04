@@ -59,18 +59,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/ws.retargetly.com.ico",
     "slug": "ws-linode",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "96.43%",
-    "uptimeWeek": "99.49%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.98%",
+    "uptimeDay": "93.86%",
+    "uptimeWeek": "99.12%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.98%",
     "time": 192,
     "timeDay": 203,
     "timeWeek": 183,
     "timeMonth": 145,
     "timeYear": 192,
     "dailyMinutesDown": {
-      "2023-05-03": 51
+      "2023-05-04": 33,
+      "2023-05-03": 55
     }
   },
   {
@@ -90,7 +91,8 @@
     "timeMonth": 0,
     "timeYear": 241,
     "dailyMinutesDown": {
-      "2023-05-03": 1436,
+      "2023-05-04": 33,
+      "2023-05-03": 1440,
       "2023-05-02": 1440,
       "2023-05-01": 1440,
       "2023-04-30": 1440,

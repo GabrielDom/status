@@ -42,7 +42,7 @@ status-website:
   theme: dark
   navbar:
     - title: Status
-      href: /
+      href: https://gabrieldom.github.io/status
     - title: GitHub
       href: https://github.com/GabrielDom/status
 

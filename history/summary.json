@@ -22,19 +22,19 @@
     "url": "https://dmpv3.retargetly.com/",
     "icon": "https://icons.duckduckgo.com/ip3/dmpv3.retargetly.com.ico",
     "slug": "dmp-v3",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 182,
-    "timeDay": 43,
-    "timeWeek": 151,
-    "timeMonth": 156,
+    "timeDay": 181,
+    "timeWeek": 172,
+    "timeMonth": 161,
     "timeYear": 182,
     "dailyMinutesDown": {
-      "2023-07-02": 1
+      "2023-07-02": 7
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://loop.retargetly.com/",
     "icon": "https://icons.duckduckgo.com/ip3/loop.retargetly.com.ico",
     "slug": "loop",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 154,
-    "timeDay": 40,
-    "timeWeek": 135,
-    "timeMonth": 124,
-    "timeYear": 154,
+    "time": 155,
+    "timeDay": 146,
+    "timeWeek": 149,
+    "timeMonth": 129,
+    "timeYear": 155,
     "dailyMinutesDown": {
-      "2023-07-02": 0
+      "2023-07-02": 6
     }
   },
   {
@@ -65,8 +65,8 @@
     "status": "down",
     "uptime": "98.28%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "19.52%",
-    "uptimeMonth": "81.48%",
+    "uptimeWeek": "19.45%",
+    "uptimeMonth": "81.46%",
     "uptimeYear": "98.28%",
     "time": 190,
     "timeDay": 46,
@@ -74,7 +74,7 @@
     "timeMonth": 163,
     "timeYear": 190,
     "dailyMinutesDown": {
-      "2023-07-02": 696,
+      "2023-07-02": 703,
       "2023-07-01": 1440,
       "2023-06-30": 1440,
       "2023-06-29": 1440,

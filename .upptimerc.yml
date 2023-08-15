@@ -16,19 +16,19 @@ sites:
   - name: Loop
     url: https://loop.retargetly.com/
     maxResponseTime: 6000
-  - name: WS (Linode)
-    url: https://ws.retargetly.com/healthcheck
-  - name: WS API
-    url: https://wsapi-lab.retargetly.com/healthcheck
-    maxResponseTime: 6000
+  # - name: WS (Linode)
+  #   url: https://ws.retargetly.com/healthcheck
+  # - name: WS API
+  #   url: https://wsapi-lab.retargetly.com/healthcheck
+  #   maxResponseTime: 6000
   - name: Google
     url: https://www.google.com
   
     
 assignees:
   - GabrielDom
-  - charlie-rely
-  - guamacherox
+  # - charlie-rely
+  # - guamacherox
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

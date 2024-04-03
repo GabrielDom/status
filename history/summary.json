@@ -6,17 +6,16 @@
     "slug": "dmp-v4-login",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 231,
-    "timeDay": 237,
-    "timeWeek": 270,
+    "time": 232,
+    "timeDay": 259,
+    "timeWeek": 281,
     "timeMonth": 269,
     "timeYear": 248,
     "dailyMinutesDown": {
-      "2024-04-02": 10,
       "2023-07-02": 16
     }
   },
@@ -32,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 198,
-    "timeDay": 179,
-    "timeWeek": 186,
-    "timeMonth": 190,
-    "timeYear": 214,
+    "timeDay": 190,
+    "timeWeek": 195,
+    "timeMonth": 191,
+    "timeYear": 213,
     "dailyMinutesDown": {
       "2023-07-02": 15
     }
@@ -52,8 +51,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 103,
-    "timeDay": 97,
-    "timeWeek": 88,
+    "timeDay": 76,
+    "timeWeek": 86,
     "timeMonth": 89,
     "timeYear": 99,
     "dailyMinutesDown": {}

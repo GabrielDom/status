@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 250,
-    "timeDay": 137,
-    "timeWeek": 258,
-    "timeMonth": 272,
-    "timeYear": 275,
-    "dailyMinutesDown": {
-      "2023-07-02": 16
-    }
+    "timeDay": 355,
+    "timeWeek": 248,
+    "timeMonth": 274,
+    "timeYear": 276,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Loop",
@@ -31,13 +29,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 208,
-    "timeDay": 155,
-    "timeWeek": 188,
-    "timeMonth": 240,
+    "timeDay": 257,
+    "timeWeek": 194,
+    "timeMonth": 193,
     "timeYear": 232,
-    "dailyMinutesDown": {
-      "2023-07-02": 15
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Google",
@@ -51,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 105,
-    "timeDay": 70,
-    "timeWeek": 164,
-    "timeMonth": 106,
+    "timeDay": 250,
+    "timeWeek": 147,
+    "timeMonth": 112,
     "timeYear": 105,
     "dailyMinutesDown": {
       "2024-05-01": 35

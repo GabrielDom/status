@@ -4,7 +4,7 @@
     "url": "https://dmp.retargetly.com/auth/login",
     "icon": "https://icons.duckduckgo.com/ip3/dmp.retargetly.com.ico",
     "slug": "dmp-v4-login",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 243,
     "timeMonth": 262,
     "timeYear": 276,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-11": 0
+    }
   },
   {
     "name": "Loop",

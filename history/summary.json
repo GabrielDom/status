@@ -4,19 +4,19 @@
     "url": "https://dmp.retargetly.com/auth/login",
     "icon": "https://icons.duckduckgo.com/ip3/dmp.retargetly.com.ico",
     "slug": "dmp-v4-login",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 250,
-    "timeDay": 219,
-    "timeWeek": 243,
-    "timeMonth": 262,
-    "timeYear": 276,
+    "time": 252,
+    "timeDay": 652,
+    "timeWeek": 348,
+    "timeMonth": 289,
+    "timeYear": 278,
     "dailyMinutesDown": {
-      "2024-07-11": 0
+      "2024-07-11": 7
     }
   },
   {
@@ -24,18 +24,20 @@
     "url": "https://loop.retargetly.com/",
     "icon": "https://icons.duckduckgo.com/ip3/loop.retargetly.com.ico",
     "slug": "loop",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 208,
-    "timeDay": 180,
-    "timeWeek": 207,
-    "timeMonth": 203,
-    "timeYear": 232,
-    "dailyMinutesDown": {}
+    "timeDay": 333,
+    "timeWeek": 242,
+    "timeMonth": 212,
+    "timeYear": 233,
+    "dailyMinutesDown": {
+      "2024-07-11": 0
+    }
   },
   {
     "name": "Google",

@@ -1,7 +1,7 @@
 url: https://dmp.retargetly.com/auth/login
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-07-11T16:48:20.399Z
+status: up
+code: 200
+responseTime: 1085
+lastUpdated: 2024-07-11T16:55:23.368Z
 startTime: 2022-08-01T13:08:15.000Z
 generator: Upptime <https://github.com/upptime/upptime>

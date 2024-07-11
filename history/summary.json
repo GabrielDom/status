@@ -4,11 +4,11 @@
     "url": "https://dmp.retargetly.com/auth/login",
     "icon": "https://icons.duckduckgo.com/ip3/dmp.retargetly.com.ico",
     "slug": "dmp-v4-login",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 252,
     "timeDay": 652,
@@ -16,7 +16,7 @@
     "timeMonth": 289,
     "timeYear": 278,
     "dailyMinutesDown": {
-      "2024-07-11": 7
+      "2024-07-11": 0
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://loop.retargetly.com/",
     "icon": "https://icons.duckduckgo.com/ip3/loop.retargetly.com.ico",
     "slug": "loop",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 208,
-    "timeDay": 333,
-    "timeWeek": 242,
-    "timeMonth": 212,
+    "time": 209,
+    "timeDay": 345,
+    "timeWeek": 256,
+    "timeMonth": 217,
     "timeYear": 233,
     "dailyMinutesDown": {
-      "2024-07-11": 0
+      "2024-07-11": 9
     }
   },
   {

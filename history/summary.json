@@ -6,9 +6,9 @@
     "slug": "dmp-v4-login",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.76%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 258,
     "timeDay": 219,
@@ -16,7 +16,7 @@
     "timeMonth": 266,
     "timeYear": 280,
     "dailyMinutesDown": {
-      "2024-09-01": 0,
+      "2024-09-01": 3,
       "2024-07-11": 28
     }
   },

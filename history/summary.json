@@ -4,18 +4,19 @@
     "url": "https://dmp.retargetly.com/auth/login",
     "icon": "https://icons.duckduckgo.com/ip3/dmp.retargetly.com.ico",
     "slug": "dmp-v4-login",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 258,
-    "timeDay": 257,
-    "timeWeek": 245,
-    "timeMonth": 267,
+    "timeDay": 219,
+    "timeWeek": 234,
+    "timeMonth": 266,
     "timeYear": 280,
     "dailyMinutesDown": {
+      "2024-09-01": 0,
       "2024-07-11": 28
     }
   },
@@ -30,9 +31,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 213,
-    "timeDay": 283,
-    "timeWeek": 195,
+    "time": 214,
+    "timeDay": 176,
+    "timeWeek": 198,
     "timeMonth": 229,
     "timeYear": 234,
     "dailyMinutesDown": {}
@@ -49,10 +50,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 102,
-    "timeDay": 81,
+    "timeDay": 85,
     "timeWeek": 96,
     "timeMonth": 96,
-    "timeYear": 104,
+    "timeYear": 103,
     "dailyMinutesDown": {
       "2024-05-01": 35
     }

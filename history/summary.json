@@ -4,18 +4,19 @@
     "url": "https://dmp.retargetly.com/auth/login",
     "icon": "https://icons.duckduckgo.com/ip3/dmp.retargetly.com.ico",
     "slug": "dmp-v4-login",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.67%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 259,
-    "timeDay": 259,
-    "timeWeek": 256,
-    "timeMonth": 270,
+    "timeDay": 225,
+    "timeWeek": 250,
+    "timeMonth": 267,
     "timeYear": 280,
     "dailyMinutesDown": {
+      "2024-09-04": 0,
       "2024-09-01": 34,
       "2024-07-11": 28
     }

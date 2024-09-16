@@ -25,18 +25,20 @@
     "url": "https://loop.retargetly.com/",
     "icon": "https://icons.duckduckgo.com/ip3/loop.retargetly.com.ico",
     "slug": "loop",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 215,
-    "timeDay": 321,
-    "timeWeek": 217,
-    "timeMonth": 220,
-    "timeYear": 234,
-    "dailyMinutesDown": {}
+    "time": 256,
+    "timeDay": 10299,
+    "timeWeek": 2725,
+    "timeMonth": 847,
+    "timeYear": 288,
+    "dailyMinutesDown": {
+      "2024-09-16": 0
+    }
   },
   {
     "name": "Google",

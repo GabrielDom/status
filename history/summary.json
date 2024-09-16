@@ -25,19 +25,19 @@
     "url": "https://loop.retargetly.com/",
     "icon": "https://icons.duckduckgo.com/ip3/loop.retargetly.com.ico",
     "slug": "loop",
-    "status": "degraded",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 256,
-    "timeDay": 10299,
-    "timeWeek": 2725,
-    "timeMonth": 847,
+    "time": 257,
+    "timeDay": 6959,
+    "timeWeek": 2453,
+    "timeMonth": 830,
     "timeYear": 288,
     "dailyMinutesDown": {
-      "2024-09-16": 0
+      "2024-09-16": 7
     }
   },
   {
